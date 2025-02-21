@@ -1,6 +1,6 @@
 Gerador de Senha Segura
 
-Olá, pessoal! Bem-vindos ao Gerador de Senha Segura!
+
 
  🔐 Neste projeto, meu objetivo foi criar uma ferramenta que ajuda a gerar senhas fortes e aleatórias, garantindo mais segurança para nossas contas online.
 A interface é bem simples e prática, permitindo que você personalize o tamanho da sua senha e a copie facilmente para a área de transferência.
