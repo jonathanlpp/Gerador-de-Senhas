@@ -6,6 +6,7 @@ Gerador de Senha Segura
 A interface é bem simples e prática, permitindo que você personalize o tamanho da sua senha e a copie facilmente para a área de transferência.
 
 🌟 Funcionalidades
+
 Personalização do Tamanho da Senha: Você pode ajustar o tamanho da senha que deseja usando um controle deslizante (slider).
 
 Geração de Senhas Aleatórias: É só clicar em um botão e uma senha forte será gerada, combinando letras maiúsculas, minúsculas e números.
