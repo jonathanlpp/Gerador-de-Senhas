@@ -7,7 +7,9 @@ A interface é bem simples e prática, permitindo que você personalize o tamanh
 
 🌟 Funcionalidades
 Personalização do Tamanho da Senha: Você pode ajustar o tamanho da senha que deseja usando um controle deslizante (slider).
+
 Geração de Senhas Aleatórias: É só clicar em um botão e uma senha forte será gerada, combinando letras maiúsculas, minúsculas e números.
+
 Cópia Rápida: Ao clicar na senha gerada, você a copia automaticamente para a área de transferência. Super fácil!
 
 🚀 Tecnologias Utilizadas
